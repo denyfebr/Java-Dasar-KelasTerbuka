@@ -11,6 +11,6 @@ package com.deny;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hallo deny");
-        System.err.printf("Wiro sableng naga geni %d \n",212);
+        System.out.printf("Wiro sableng naga geni %d \n",212);
     }
 }
