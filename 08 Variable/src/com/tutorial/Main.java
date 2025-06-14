@@ -11,7 +11,7 @@ public class Main {
         
         //Deklarasi
         int b;
-        b=23;
+        b=7;
         System.out.println("Nilai b = "+b);
     }
 }
