@@ -28,7 +28,7 @@ public class Main {
         System.out.println("nilai dengan '++' = "+angka2);
         
         int angka3 = 10;
-        angka3--; // angka2 = angka2 + 1;
+        angka3--; // angka3 = angka3 + 1;
         System.out.println("nilai dengan '--' = "+angka3);
         
         //Postfix dan prefix
