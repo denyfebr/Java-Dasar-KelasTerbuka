@@ -92,10 +92,7 @@ public class Main {
         int angka_cari=5;
         int posisi_temu = Arrays.binarySearch(arrayAngka8, angka_cari);
         System.out.println("angka "+angka_cari+" ada di index = "+posisi_temu);
-        
-        // tugas sort kebailk
-        // menambah 2 buah array
-        // menggabungkan dua buah array
+               
     }
     
     private static void printArray(int[] dataArray){
